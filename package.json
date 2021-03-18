@@ -1,0 +1,38 @@
+{
+  "name": "concurrent-promise",
+  "version": "0.1",
+  "description": "Small Utility that can help you to deal with the multi-processing tasks on JavaScript Ecosystem. (Built on ES2015 Promise)",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "/lib"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sutanlab/concurrent-promise.git"
+  },
+  "keywords": [
+    "concurrent",
+    "nodejs",
+    "typescript",
+    "javascript",
+    "promise",
+    "helpers",
+    "utils",
+    "performance",
+    "optimization"
+  ],
+  "author": "Gading Nasution <contact@sutanlab.id>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sutanlab/concurrent-promise/issues"
+  },
+  "homepage": "https://github.com/sutanlab/concurrent-promise#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
