@@ -1,4 +1,6 @@
 # 🔀 Concurrent Promise
+[![Build Status](https://travis-ci.org/sutanlab/concurrent-promise.svg?branch=main)](https://travis-ci.org/sutanlab/concurrent-promise)
+
 #### 🧪 This project is under experiment! (documentation is not ready yet.)
 #### Soon will be published at NPM 🚀
 
